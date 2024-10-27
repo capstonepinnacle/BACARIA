@@ -62,10 +62,11 @@ ul{
     display: flex;
     flex-direction: column;
     transition: all ease 0.3s;
+    border-radius: 25px;
 }
 
 .blog-box:hover{
-    background-color: #ffffffa0;
+    background-color: #ffffff59;
     box-shadow: 16px 20px 50px rgba(0, 0, 0, 0.12);
 }
 
@@ -249,7 +250,7 @@ ul{
         align-items: flex-start;
         justify-content: flex-start;
         font-family: monospace;
-        font-size: 10px;
+        font-size: 12px;
     }
 
     .sidebar li{
@@ -415,7 +416,7 @@ ul{
     }
 
     #blog{
-        background: linear-gradient(250deg,rgb(229, 177, 185),rgba(180, 54, 215, 0.667));
+        background: linear-gradient(250deg,rgba(239, 188, 196, 0.803),rgba(180, 54, 215, 0.667));
         background-color: bisque;
     }
 
@@ -432,7 +433,7 @@ ul{
         display: flex;
         flex-direction: column;
         padding: 5px 5px 10px 10px;
-        color: rgb(234, 227, 227);
+        color: rgb(230, 236, 245);
         font-family:'Courier New', Courier, monospace;
         font-size: 0.8rem;
         
