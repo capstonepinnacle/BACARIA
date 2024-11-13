@@ -436,6 +436,11 @@ input:checked ~.sidebar {
     
 }
 
+#blog{
+    background: linear-gradient(250deg,rgba(24, 104, 208, 0.803),rgba(198, 79, 231, 0.667));
+    background-color: bisque;
+}
+
 
 
     
